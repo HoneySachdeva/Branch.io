@@ -1,0 +1,6 @@
+framework module Pods_Branch_Linking_iOSUITests {
+  umbrella header "Pods-Branch Linking iOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

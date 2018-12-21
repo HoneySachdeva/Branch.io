@@ -1,0 +1,6 @@
+framework module Pods_Branch_Linking_iOS {
+  umbrella header "Pods-Branch Linking iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
